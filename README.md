@@ -18,5 +18,3 @@ Users will use this application to create a random password. They will be able t
 ## Contact
 gghaslam@gmail.com
 
-
-# Password-Generator
