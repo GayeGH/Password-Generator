@@ -1,4 +1,4 @@
-# Title
+## Title
 Password-Generator
 
 ## Description
